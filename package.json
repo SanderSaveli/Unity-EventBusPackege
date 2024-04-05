@@ -1,0 +1,6 @@
+{
+  "name": "com.sandersaveli.eventbus",
+  "version": "1.0.0",
+  "displayName": "Event Bus",
+  "description": "A simple implementation of the event bus pattern."
+}
